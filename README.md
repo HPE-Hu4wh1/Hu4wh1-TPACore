@@ -1,6 +1,8 @@
-# HyperiaPE
+# HyperiaPE TPA Core
 
-[![Discord](https://discord.io/HyperiaPE)
+[Discord](https://discord.io/HyperiaPE)
+
 # Hu4wh1 TPA Core Plugin for PocketMine & Altay
-# ONLY:
+
+# FEATURE:
 - [x] TPA System
