@@ -4,4 +4,5 @@ branches:
 projects:
   HPE-TPACore:
     path: ""
+    icon: "tpa-logo.png"
 ...
