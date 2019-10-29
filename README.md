@@ -6,3 +6,9 @@
 
 # FEATURE:
 - [x] TPA System
+
+[![](https://poggit.pmmp.io/shield.state/TPACore)](https://poggit.pmmp.io/p/TPACore)
+<a href="https://poggit.pmmp.io/p/TPACore"><img src="https://poggit.pmmp.io/shield.state/TPACore"></a>
+
+[![](https://poggit.pmmp.io/shield.api/TPACore)](https://poggit.pmmp.io/p/TPACore)
+<a href="https://poggit.pmmp.io/p/TPACore"><img src="https://poggit.pmmp.io/shield.api/TPACore"></a>
