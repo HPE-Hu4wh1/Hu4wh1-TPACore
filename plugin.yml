@@ -1,0 +1,15 @@
+name: Hu4wh1-TPACore
+version: 1.0
+api:
+- 3.9.6
+main: Hu4wh1\BaseAPI
+author: Hu4wh1
+website: https://github.com/HPE-Hu4wh1
+
+permissions:
+    essentials.tpa.commands:
+        default: true
+    essentials.tpak.commands:
+        default: true
+    essentials.tpar.commands:
+        default: true
