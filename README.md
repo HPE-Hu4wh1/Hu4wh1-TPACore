@@ -1,5 +1,4 @@
-[![](https://poggit.pmmp.io/shield.state/TPACore)](https://poggit.pmmp.io/p/TPACore)
-<a href="https://poggit.pmmp.io/p/TPACore"><img src="https://poggit.pmmp.io/shield.state/TPACore"></a>
+[![HitCount](http://hits.dwyl.io/Hu4wh1/HPE-TPACore.svg)](http://hits.dwyl.io/Hu4wh1/HPE-TPACore)
 
 [![](https://poggit.pmmp.io/shield.api/TPACore)](https://poggit.pmmp.io/p/TPACore)
 <a href="https://poggit.pmmp.io/p/TPACore"><img src="https://poggit.pmmp.io/shield.api/TPACore"></a>
